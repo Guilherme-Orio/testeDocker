@@ -1,2 +1,2 @@
 # testeDocker
-A simple teste from docker
+A simple docker test
